@@ -66,6 +66,8 @@ object Functions extends App {
 
   }
 
+
+
 println(isPrime(2003))
 
 

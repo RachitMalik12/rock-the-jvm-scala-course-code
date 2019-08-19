@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb6c7dbd-0382-4f0d-a548-5552c52c6e30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565938594643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lecture 3 - Functions">
+      <created>1566063829317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566063829317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lecture 1 - basics" />
     <MESSAGE value="Lecture 2 - expressions, side effects, types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 2 - expressions, side effects, types" />
+    <MESSAGE value="Lecture 3 - Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 3 - Functions" />
   </component>
 </project>
